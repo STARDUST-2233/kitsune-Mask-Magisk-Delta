@@ -19,7 +19,7 @@ Some highlight features:
 
 [Github](https://github.com/topjohnwu/Magisk/) is the only source where you can get official Magisk information and downloads.
 
-[here](https://github.com/STARDUST-2233/kitsune-Mask-Magisk-Delta/releases/) is the only source where you can get Kitsune Mask information and downloads.
+[Download](https://github.com/STARDUST-2233/kitsune-Mask-Magisk-Delta/releases/) is the only source where you can get Kitsune Mask information and downloads.
 
 [![](https://img.shields.io/badge/Magisk-v25.2-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
 [![](https://img.shields.io/badge/Magisk%20Beta-v25.2-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
