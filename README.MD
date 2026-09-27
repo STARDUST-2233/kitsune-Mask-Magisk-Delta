@@ -87,7 +87,7 @@ Translate each and place them in the respective locations (`[module]/src/main/re
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-## attention
+## Attention
   - This repository serves solely as an archive for the project. Contributors and developers are welcome to update it. 
   - This project originated from the Magisk project and, as of 2026, 
 has been led by three developers: 1st HuskyDG, 2nd 1q23lyc45, and 3rd Q_OS2. We sincerely thank every contributor.
